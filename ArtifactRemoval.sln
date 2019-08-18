@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtifactRemoval", "ArtifactRemoval\ArtifactRemoval.csproj", "{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Debug|x86.Build.0 = Debug|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Release|x64.Build.0 = Release|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Release|x86.ActiveCfg = Release|Any CPU
+		{DB70D4AF-9143-43D4-9AA1-5754E1CF32CC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9800A63-2E96-47AB-B3BD-0A5B611269F6}
+	EndGlobalSection
+EndGlobal

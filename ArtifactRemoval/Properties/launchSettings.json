@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArtifactRemoval": {
+      "commandName": "Project",
+      "commandLineArgs": "artifact-removal.png"
+    }
+  }
+}
